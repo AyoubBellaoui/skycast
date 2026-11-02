@@ -12,3 +12,5 @@ Route::get('/ping', function () {
         'message' => 'pong',
     ]);
 });
+
+
